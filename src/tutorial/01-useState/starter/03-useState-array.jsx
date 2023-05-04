@@ -21,7 +21,7 @@ const UseStateArray = () => {
           <div key={id}>
             <h4>{name}</h4>
             <button type="button" onClick={() => removeItem(id)}>
-              Removere
+              Remover
             </button>
           </div>
         );
