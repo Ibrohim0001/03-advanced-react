@@ -17,6 +17,6 @@ const MultipleReturnsFetchData = () => {
     }
     fetchUser()
   },[])
-  return <h2>Fetch Data </h2>;
+  return <h2>Fetch Dataaa </h2>;
 };
 export default MultipleReturnsFetchData;
